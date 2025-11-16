@@ -64,7 +64,7 @@ O objetivo principal foi seguir todo o fluxo de trabalho de ciência de dados:
 
 1.  **Clone o repositório (exemplo):**
     ```bash
-    git clone [https://github.com/jmtmds/](https://github.com/jmtmds/)[NOME-DO-REPOSITORIO].git
+    git clone [https://github.com/jmtmds/Data-Science.git](https://github.com/jmtmds/Data-Science.git).git
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
